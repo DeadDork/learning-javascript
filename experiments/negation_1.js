@@ -1,0 +1,22 @@
+// Explores negations
+
+// Conclusion: you can negate a la C
+
+////////////////////////////////////////////////////////////////////////////////
+// Functions
+
+function main() {
+	var x = false;
+	var y = false;
+
+	if (!x && !y) {
+		console.log("Hey!");
+	} else {
+		console.log("Nooooo...!");
+	}
+}
+
+////////////////////////////////////////////////////////////////////////////////
+// Execute
+
+main();
